@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oosaephooz.av-ml.org/sitemap.xml
